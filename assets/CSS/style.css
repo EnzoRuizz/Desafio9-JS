@@ -1,0 +1,17 @@
+li{
+    list-style: none;
+}
+
+.body-index{
+    background-color: #bdc3c7;
+    font-size: 1em;
+}
+.carousel-item img{
+    object-fit: cover;
+    object-position: center;
+    height: 300px !important;
+}
+
+.card-body{
+    text-align: center !important;
+}
